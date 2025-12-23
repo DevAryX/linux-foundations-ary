@@ -1,0 +1,41 @@
+Dec 17 16:03:24 ary-VirtualBox systemd[1]: anacron.service: Deactivated successfully.
+Dec 17 16:03:26 ary-VirtualBox systemd[1283]: Started Application launched by gnome-session-binary.
+Dec 17 16:03:26 ary-VirtualBox systemd[1283]: Started Application launched by gnome-session-binary.
+Dec 17 16:04:05 ary-VirtualBox ubuntu-appindicators@ubuntu.com[1449]: unable to update icon for software-update-available
+Dec 17 16:04:26 ary-VirtualBox systemd[1283]: Started Application launched by gnome-session-binary.
+Dec 17 16:04:51 ary-VirtualBox systemd[1]: Starting Download data for packages that failed at package install time...
+Dec 17 16:04:51 ary-VirtualBox systemd[1]: update-notifier-download.service: Deactivated successfully.
+Dec 17 16:04:51 ary-VirtualBox systemd[1]: Finished Download data for packages that failed at package install time.
+Dec 17 16:05:06 ary-VirtualBox dbus-daemon[543]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.46' (uid=0 pid=591 comm="/usr/lib/snapd/snapd " label="unconfined")
+Dec 17 16:05:06 ary-VirtualBox systemd[1]: Starting Time & Date Service...
+Dec 17 16:05:06 ary-VirtualBox dbus-daemon[543]: [system] Successfully activated service 'org.freedesktop.timedate1'
+Dec 17 16:05:06 ary-VirtualBox systemd[1]: Started Time & Date Service.
+Dec 17 16:05:36 ary-VirtualBox systemd[1]: systemd-timedated.service: Deactivated successfully.
+Dec 17 16:05:53 ary-VirtualBox systemd[1283]: Started Application launched by gsd-media-keys.
+Dec 17 16:05:54 ary-VirtualBox dbus-daemon[1307]: [session uid=1000 pid=1307] Activating via systemd: service name='org.gnome.Terminal' unit='gnome-terminal-server.service' requested by ':1.98' (uid=1000 pid=2291 comm="/usr/bin/gnome-terminal.real --wait " label="unconfined")
+Dec 17 16:05:54 ary-VirtualBox systemd[1283]: Created slice Slice /app/org.gnome.Terminal.
+Dec 17 16:05:54 ary-VirtualBox systemd[1283]: Starting GNOME Terminal Server...
+Dec 17 16:05:54 ary-VirtualBox dbus-daemon[1307]: [session uid=1000 pid=1307] Successfully activated service 'org.gnome.Terminal'
+Dec 17 16:05:54 ary-VirtualBox systemd[1283]: Started GNOME Terminal Server.
+Dec 17 16:05:55 ary-VirtualBox systemd[1283]: Started VTE child process 2314 launched by gnome-terminal-server process 2296.
+----
+Dec 17 15:59:42 ary-VirtualBox systemd[1]: Listening on ACPID Listen Socket.
+░░ Subject: A start job for unit acpid.socket has finished successfully
+░░ Defined-By: systemd
+░░ Support: http://www.ubuntu.com/support
+░░ 
+░░ A start job for unit acpid.socket has finished successfully.
+░░ 
+░░ The job identifier is 96.
+Dec 17 15:59:42 ary-VirtualBox systemd[1]: Condition check resulted in Unix socket for apport crash forwarding being skipped.
+░░ Subject: A start job for unit apport-forward.socket has finished successfully
+░░ Defined-By: systemd
+░░ Support: http://www.ubuntu.com/support
+░░ 
+░░ A start job for unit apport-forward.socket has finished successfully.
+░░ 
+░░ The job identifier is 90.
+Dec 17 15:59:42 ary-VirtualBox systemd[1]: Listening on Avahi mDNS/DNS-SD Stack Activation Socket.
+░░ Subject: A start job for unit avahi-daemon.socket has finished successfully
+░░ Defined-By: systemd
+░░ Support: http://www.ubuntu.com/support

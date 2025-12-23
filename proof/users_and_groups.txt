@@ -1,0 +1,2 @@
+devgroup:x:1002:
+uid=1002(devuser) gid=1003(devuser) groups=1003(devuser)
