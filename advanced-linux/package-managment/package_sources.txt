@@ -1,0 +1,20 @@
+Ubuntu Package - Day 2
+
+Ubuntu installs software from online repositories.
+
+These repositories are defined in:
+/etc/apt/sources.list
+
+Each repository line tells the system:
+- Where to download packages from
+- Which Ubuntu release to use
+- Which software category (main, universe, etc.)
+
+When running apt update:
+- Ubuntu refreshes the package list from these sources
+- No software is installed at this stage
+
+This system allows:
+- Secure software delivery
+- Centralised updates
+- Dependency management
