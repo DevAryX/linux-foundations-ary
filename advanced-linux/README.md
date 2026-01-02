@@ -76,7 +76,7 @@ Checks whether a directory exists and reports the result.
 Loops through files in a directory and processes them safely.
 
 
-###combined_logic.sh
+### combined_logic.sh
 
 Combines condition checks, loops, and logging to simulate real automation logic.
 
