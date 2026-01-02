@@ -35,11 +35,17 @@ This work reflects real tasks performed on Linux servers.
 
 advanced-linux/
 ├── package-management/   # apt usage and package source notes
+
 ├── filesystem/           # Linux filesystem explanations
+
 ├── logs/                 # Log analysis and system reports
+
 ├── scripts/              # Bash scripts and automation logic
+
 ├── cron/                 # Cron job configuration
+
 ├── system-report/        # System metrics outputs
+
 └── README.md
 
 
