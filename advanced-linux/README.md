@@ -41,6 +41,8 @@ advanced-linux/
 
 ├── logs/                 # Log analysis and system reports
 
+├── proof/                # Terminal screenshots and text outputs
+
 ├── scripts/              # Bash scripts and automation logic
 
 ├── cron/                 # Cron job configuration
