@@ -1,7 +1,7 @@
 # Linux Foundations — Ary
 
 ## Overview
-This repository documents my 20-day journey through Linux fundamentals, terminal usage, and real-world administrative scripting. The goal was to gain hands-on experience with Linux, build practical automation scripts, and compile a professional portfolio that demonstrates my skills to recruiters or potential employers.
+This repository documents my journey through Linux fundamentals, terminal usage, and real-world administrative scripting. The goal was to gain hands-on experience with Linux, build practical automation scripts, and compile a professional portfolio that demonstrates my skills to recruiters or potential employers.
 
 By completing this project, I developed:
 - Confidence in the Linux terminal
@@ -9,7 +9,7 @@ By completing this project, I developed:
 - Ability to write scripts that automate routine tasks
 
 ## What I Learned
-Throughout the 20 days, I focused on practical skills grouped into these categories:
+Throughout the days, I focused on practical skills grouped into these categories:
 
 - **File System & Permissions**  
   Navigating directories, managing files, setting permissions (`chmod`), and ownership (`chown`)  
