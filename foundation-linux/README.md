@@ -46,12 +46,19 @@ Throughout the 20 days, I focused on practical skills grouped into these categor
 All scripts, terminal outputs, and screenshots of my work are included in the following structure:
 
 linux-foundations-ary/
+
 ├── README.md
+
 ├── scripts/ # All Bash scripts
+
 ├── proof/ # Terminal screenshots and text outputs
+
 ├── reports/ # Generated system reports
+
 ├── projects/
+
 │ ├── backup/ # Backup project scripts and notes
+
 │ └── system_report/ # System report scripts and outputs
 
 
