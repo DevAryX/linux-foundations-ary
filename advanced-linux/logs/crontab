@@ -1,0 +1,4 @@
+* * * * * /home/ary/learning/linux-foundations-ary/advanced-linux/scripts/system_report_v2.sh ary >> /home/ary/learning/linux-foundations-ary/advanced-linux/logs/cron_report.log 2>&1
+
+
+

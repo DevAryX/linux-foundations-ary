@@ -1,0 +1,21 @@
+Dec 28 18:21:41 ary-VirtualBox gnome-session[864]: gnome-session-binary[864]: GLib-GIO-CRITICAL: g_bus_get_sync: assertion 'error == NULL || *error == NULL' failed
+Dec 28 18:21:41 ary-VirtualBox gnome-session[864]: gnome-session-binary[864]: GLib-GIO-CRITICAL: g_bus_get_sync: assertion 'error == NULL || *error == NULL' failed
+Dec 28 18:21:41 ary-VirtualBox gnome-session-binary[864]: GLib-GIO-CRITICAL: g_bus_get_sync: assertion 'error == NULL || *error == NULL' failed
+Dec 28 18:21:41 ary-VirtualBox gnome-session-binary[864]: GLib-GIO-CRITICAL: g_bus_get_sync: assertion 'error == NULL || *error == NULL' failed
+Dec 28 18:21:54 ary-VirtualBox gnome-shell[893]: JS ERROR: TypeError: this._managerProxy is undefined#012_onGeoclueVanished@resource:///org/gnome/shell/ui/status/location.js:169:9
+Dec 28 18:21:54 ary-VirtualBox gsd-sharing[980]: Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+Dec 28 18:21:54 ary-VirtualBox gsd-sharing[980]: Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+Dec 28 18:21:54 ary-VirtualBox gnome-shell[893]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Dec 28 18:22:00 ary-VirtualBox gnome-shell[893]: JS ERROR: Failed to initialize fprintd service: Gio.IOErrorEnum: GDBus.Error:net.reactivated.Fprint.Error.NoSuchDevice: No devices available#012asyncCallback@resource:///org/gnome/gjs/modules/core/overrides/Gio.js:114:23
+Dec 28 18:22:05 ary-VirtualBox org.gnome.Shell.desktop[1156]: Errors from xkbcomp are not fatal to the X server
+Dec 28 18:22:51 ary-VirtualBox gnome-session[1363]: gnome-session-binary[1363]: GnomeDesktop-WARNING: Could not create transient scope for PID 1385: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 1385 does not exist.
+Dec 28 18:22:51 ary-VirtualBox gnome-session-binary[1363]: GnomeDesktop-WARNING: Could not create transient scope for PID 1385: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 1385 does not exist.
+Dec 28 18:22:51 ary-VirtualBox gnome-session-binary[1363]: GnomeDesktop-WARNING: Could not create transient scope for PID 1394: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 1394 does not exist.
+Dec 28 18:22:51 ary-VirtualBox gnome-session[1363]: gnome-session-binary[1363]: GnomeDesktop-WARNING: Could not create transient scope for PID 1394: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 1394 does not exist.
+Dec 28 18:23:05 ary-VirtualBox gnome-session[1363]: gnome-session-binary[1363]: GnomeDesktop-WARNING: Could not create transient scope for PID 1633: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 1633 does not exist.
+Dec 28 18:23:05 ary-VirtualBox gnome-session-binary[1363]: GnomeDesktop-WARNING: Could not create transient scope for PID 1633: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 1633 does not exist.
+Dec 28 18:23:05 ary-VirtualBox gnome-session[1363]: gnome-session-binary[1363]: GnomeDesktop-WARNING: Could not create transient scope for PID 1671: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 1671 does not exist.
+Dec 28 18:23:05 ary-VirtualBox gnome-session-binary[1363]: GnomeDesktop-WARNING: Could not create transient scope for PID 1671: GDBus.Error:org.freedesktop.DBus.Error.UnixProcessIdUnknown: Process with ID 1671 does not exist.
+Dec 28 18:23:05 ary-VirtualBox at-spi2-registr[1602]: Failed to register client: GDBus.Error:org.gnome.SessionManager.AlreadyRegistered: Unable to register client
+Dec 28 18:23:06 ary-VirtualBox gnome-shell[1400]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Dec 28 18:23:16 ary-VirtualBox pulseaudio[1258]: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.

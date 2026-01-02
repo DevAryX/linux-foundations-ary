@@ -1,0 +1,32 @@
+========== SYSTEM REPORT ==========
+========== SYSTEM REPORT ==========
+Username: ary
+Username: ary
+Hostname: ary-VirtualBox
+Hostname: ary-VirtualBox
+Date: Tue 30 Dec 11:13:01 GMT 2025
+Date: Tue 30 Dec 11:13:01 GMT 2025
+Uptime: up 1 hour, 19 minutes
+Uptime: up 1 hour, 19 minutes
+Disk Usage:
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           392M  1.5M  391M   1% /run
+/dev/sda3        29G   12G   16G  43% /
+tmpfs           2.0G     0  2.0G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  6.1M  506M   2% /boot/efi
+tmpfs           392M  108K  392M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           392M  1.5M  391M   1% /run
+/dev/sda3        29G   12G   16G  43% /
+tmpfs           2.0G     0  2.0G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  6.1M  506M   2% /boot/efi
+tmpfs           392M  108K  392M   1% /run/user/1000
+Running Processes:
+Running Processes:
+194
+194
+===================================
+Error: User 'fake123' does not exist.

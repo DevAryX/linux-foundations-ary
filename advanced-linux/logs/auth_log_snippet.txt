@@ -1,0 +1,20 @@
+Dec 26 08:29:18 ary-VirtualBox systemd-logind[599]: Session c1 logged out. Waiting for processes to exit.
+Dec 26 08:29:19 ary-VirtualBox systemd-logind[599]: Removed session c1.
+Dec 26 08:29:19 ary-VirtualBox polkitd(authority=local): Unregistered Authentication Agent for unix-session:c1 (system bus name :1.43, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_GB.UTF-8) (disconnected from bus)
+Dec 26 08:29:33 ary-VirtualBox dbus-daemon[547]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Dec 26 08:30:01 ary-VirtualBox CRON[1965]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Dec 26 08:30:01 ary-VirtualBox CRON[1965]: pam_unix(cron:session): session closed for user root
+Dec 26 08:38:13 ary-VirtualBox gdm-password]: pam_unix(gdm-password:auth): conversation failed
+Dec 26 08:38:13 ary-VirtualBox gdm-password]: pam_unix(gdm-password:auth): auth could not identify password for [ary]
+Dec 26 08:38:16 ary-VirtualBox gdm-password]: gkr-pam: unlocked login keyring
+Dec 26 09:14:35 ary-VirtualBox gdm-password]: gkr-pam: unlocked login keyring
+Dec 26 09:17:01 ary-VirtualBox CRON[2416]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Dec 26 09:17:01 ary-VirtualBox CRON[2416]: pam_unix(cron:session): session closed for user root
+Dec 26 09:23:27 ary-VirtualBox gdm-password]: gkr-pam: unlocked login keyring
+Dec 26 09:30:01 ary-VirtualBox CRON[3511]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Dec 26 09:30:01 ary-VirtualBox CRON[3511]: pam_unix(cron:session): session closed for user root
+Dec 26 09:49:35 ary-VirtualBox sudo:      ary : TTY=pts/0 ; PWD=/home/ary/learning/linux-foundations-ary/advanced-linux/logs ; USER=root ; COMMAND=/usr/bin/tail -n 20 /var/log/syslog
+Dec 26 09:49:35 ary-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Dec 26 09:49:35 ary-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+Dec 26 09:50:07 ary-VirtualBox sudo:      ary : TTY=pts/0 ; PWD=/home/ary/learning/linux-foundations-ary/advanced-linux/logs ; USER=root ; COMMAND=/usr/bin/tail -n 20 /var/log/auth.log
+Dec 26 09:50:07 ary-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)

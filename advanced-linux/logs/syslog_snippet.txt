@@ -1,0 +1,20 @@
+Dec 26 09:40:43 ary-VirtualBox kernel: [ 4686.133034] audit: type=1400 audit(1766742043.415:184): apparmor="DENIED" operation="open" class="file" profile="snap.firefox.firefox" name="/proc/pressure/memory" pid=2490 comm="MemoryPoller" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+Dec 26 09:40:48 ary-VirtualBox kernel: [ 4691.161902] audit: type=1400 audit(1766742048.444:185): apparmor="DENIED" operation="open" class="file" profile="snap.firefox.firefox" name="/proc/pressure/memory" pid=2490 comm="MemoryPoller" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+Dec 26 09:40:53 ary-VirtualBox kernel: [ 4696.242151] audit: type=1400 audit(1766742053.525:186): apparmor="DENIED" operation="open" class="file" profile="snap.firefox.firefox" name="/proc/pressure/memory" pid=2490 comm="MemoryPoller" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+Dec 26 09:40:58 ary-VirtualBox kernel: [ 4701.243630] audit: type=1400 audit(1766742058.526:187): apparmor="DENIED" operation="open" class="file" profile="snap.firefox.firefox" name="/proc/pressure/memory" pid=2490 comm="MemoryPoller" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+Dec 26 09:41:03 ary-VirtualBox kernel: [ 4706.245370] audit: type=1400 audit(1766742063.527:188): apparmor="DENIED" operation="open" class="file" profile="snap.firefox.firefox" name="/proc/pressure/memory" pid=2490 comm="MemoryPoller" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+Dec 26 09:41:08 ary-VirtualBox kernel: [ 4711.246221] audit: type=1400 audit(1766742068.529:189): apparmor="DENIED" operation="open" class="file" profile="snap.firefox.firefox" name="/proc/pressure/memory" pid=2490 comm="MemoryPoller" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+Dec 26 09:41:18 ary-VirtualBox kernel: [ 4721.087571] audit: type=1400 audit(1766742078.370:190): apparmor="DENIED" operation="open" class="file" profile="snap.firefox.firefox" name="/proc/pressure/memory" pid=2490 comm="MemoryPoller" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+Dec 26 09:41:23 ary-VirtualBox kernel: [ 4726.318186] audit: type=1400 audit(1766742083.601:191): apparmor="DENIED" operation="open" class="file" profile="snap.firefox.firefox" name="/proc/pressure/memory" pid=2490 comm="MemoryPoller" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+Dec 26 09:46:06 ary-VirtualBox systemd[1333]: vte-spawn-b0f60df7-04fb-4342-9a1c-83c2672c7289.scope: Consumed 1.983s CPU time.
+Dec 26 09:46:07 ary-VirtualBox systemd[1333]: gnome-terminal-server.service: Consumed 14.897s CPU time.
+Dec 26 09:46:14 ary-VirtualBox systemd[1333]: snap.firefox.firefox-6b2e0458-e76f-42f6-83fc-1c9f8d2e17e2.scope: Consumed 2min 56.836s CPU time.
+Dec 26 09:46:14 ary-VirtualBox systemd[1333]: Started Application launched by gsd-media-keys.
+Dec 26 09:46:15 ary-VirtualBox dbus-daemon[1358]: [session uid=1000 pid=1358] Activating via systemd: service name='org.gnome.Terminal' unit='gnome-terminal-server.service' requested by ':1.132' (uid=1000 pid=3643 comm="/usr/bin/gnome-terminal.real --wait " label="unconfined")
+Dec 26 09:46:15 ary-VirtualBox systemd[1333]: Starting GNOME Terminal Server...
+Dec 26 09:46:16 ary-VirtualBox dbus-daemon[1358]: [session uid=1000 pid=1358] Successfully activated service 'org.gnome.Terminal'
+Dec 26 09:46:16 ary-VirtualBox systemd[1333]: Started GNOME Terminal Server.
+Dec 26 09:46:16 ary-VirtualBox systemd[1333]: Started VTE child process 3666 launched by gnome-terminal-server process 3648.
+Dec 26 09:46:25 ary-VirtualBox nautilus[2376]: Could not delete '.meta.isrunning': No such file or directory
+Dec 26 09:47:12 ary-VirtualBox gnome-shell[1488]: Window manager warning: last_user_time (5074991) is greater than comparison timestamp (5074960).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+Dec 26 09:47:12 ary-VirtualBox gnome-shell[1488]: Window manager warning: W23 appears to be one of the offending windows with a timestamp of 5074991.  Working around...

@@ -1,0 +1,14 @@
+
+/etc Deep Dive - Day 4
+
+/etc/passwd:
+Contains user account information such as username, UID, home directory, and shell.
+
+/etc/group:
+Defines system groups and which users belong to them.
+
+/etc/hosts:
+Maps hostnames to IP addresses locally before DNS is used.
+
+/etc/crontab:
+Defines system-wide scheduled tasksand when they run.

@@ -1,0 +1,9 @@
+Dec 28 18:28:41 ary-VirtualBox sudo:      ary : TTY=pts/0 ; PWD=/home/ary ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/auth.log
+Dec 28 18:28:41 ary-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Dec 28 18:29:02 ary-VirtualBox sudo:      ary : TTY=pts/2 ; PWD=/home/ary ; USER=root ; COMMAND=/usr/bin/ls /
+Dec 28 18:29:02 ary-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Dec 28 18:29:02 ary-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+Dec 28 18:29:12 ary-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+Dec 28 18:31:01 ary-VirtualBox sudo:      ary : TTY=pts/0 ; PWD=/home/ary ; USER=root ; COMMAND=/usr/bin/grep -r failed /var/log
+Dec 28 18:31:01 ary-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Dec 28 18:31:02 ary-VirtualBox sudo: pam_unix(sudo:session): session closed for user root

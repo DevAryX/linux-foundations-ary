@@ -1,0 +1,15 @@
+journalctl Notes - Day 7
+
+journalctl:
+Displays systemd journal logs for the entire system.
+
+journalctl -xe:
+Shows recent errors with explanatory context.
+
+journalctl -b:
+Displays logs from the current boot.
+
+journalctl -u <service>:
+Shows logs for a specific systemd service.
+
+journalctl is used instead of /var/log files on modern Linux systems.
