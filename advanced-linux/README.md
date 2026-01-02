@@ -34,6 +34,7 @@ This work reflects real tasks performed on Linux servers.
 
 
 advanced-linux/
+
 ├── package-management/   # apt usage and package source notes
 
 ├── filesystem/           # Linux filesystem explanations
@@ -91,8 +92,6 @@ Combines condition checks, loops, and logging to simulate real automation logic.
 
 The system report script is configured to run automatically using cron, demonstrating basic task scheduling and automation on Linux systems.
 
-
 ---
-
 
 After completing this section, I am confident working with Linux systems at a junior sysadmin / DevOps foundations level, including scripting, monitoring, and automation.
