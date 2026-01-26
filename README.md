@@ -1,4 +1,5 @@
-Linux Foundations — Ary
+### Linux Foundations — Ary
+
 Why This Repo Exists
 
 This repository documents my hands-on journey learning Linux fundamentals.
@@ -8,7 +9,7 @@ This isn’t a collection of copied commands — it’s a record of what I’ve 
 
 ---
 
-What’s Inside
+## What’s Inside
 
 You’ll find examples and scripts covering core Linux and sysadmin concepts, including:
 
