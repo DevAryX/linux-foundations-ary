@@ -1,4 +1,4 @@
-# Linux Foundations — Ary
+# Linux Foundations - Ary
 
 ### Why This Repo Exists
 
