@@ -1,6 +1,6 @@
-### Linux Foundations — Ary
+# Linux Foundations — Ary
 
-Why This Repo Exists
+### Why This Repo Exists
 
 This repository documents my hands-on journey learning Linux fundamentals.
 Over about two months, I worked directly in Ubuntu, breaking things, fixing them, and slowly getting comfortable living in the terminal.
