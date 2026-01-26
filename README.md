@@ -1,21 +1,34 @@
-# Linux Foundations — Ary
+Linux Foundations — Ary
+Why This Repo Exists
 
-## Overview
+This repository documents my hands-on journey learning Linux fundamentals.
+Over about two months, I worked directly in Ubuntu, breaking things, fixing them, and slowly getting comfortable living in the terminal.
 
-This repo is my **Linux fundamentals portfolio**, a hands-on journey through key sysadmin concepts, terminal mastery, scripting, and automation built on Ubuntu. Over 2 months I worked through real tasks, projects, and scripts that show how I work from the command line and solve problems using Bash.
+This isn’t a collection of copied commands — it’s a record of what I’ve practiced, automated, and actually used while learning how Linux systems work under the hood.
 
 ---
 
-## What You’ll Find Here
+What’s Inside
 
-This repo covers:
+You’ll find examples and scripts covering core Linux and sysadmin concepts, including:
 
-- **File systems & permissions** — navigation, ownership, and mode bits  
-- **Users & groups** — adding/removing users, access control  
-- **Process management** — `ps`, `top`, `kill`, service checks  
-- **Networking basics** — `ping`, `curl`, interfaces, open ports  
-- **Bash scripting** — conditions, loops, variables  
-- **Automation** — cron jobs and real automation projects  
+File systems & permissions
+Navigating directories, managing ownership, and understanding permission bits
+
+Users & groups
+Creating users, assigning groups, and controlling access
+
+Process management
+Monitoring running processes, killing stuck jobs, and checking services
+
+Networking basics
+Simple diagnostics with tools like ping, curl, and port checks
+
+Bash scripting
+Variables, conditionals, loops, and reusable scripts
+
+Automation
+Cron jobs and small automations that solve real problems
 
 ---
 
@@ -37,13 +50,17 @@ This repo covers:
 
 ---
 
-## 🧠 Skills Demonstrated
+🧠 Skills I’m Practicing Here
 
-- Command line fluency  
-- Shell scripting  
-- System monitoring  
-- Automation with cron  
-- File & user management
+Comfort working entirely from the command line
+
+Writing and debugging Bash scripts
+
+Monitoring and understanding system behavior
+
+Automating repetitive tasks
+
+Managing users, files, and permissions
 
 ---
 
